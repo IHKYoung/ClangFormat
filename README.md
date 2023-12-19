@@ -1,0 +1,2 @@
+# ClangFormat
+My .clang-format
